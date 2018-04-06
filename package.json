@@ -1,0 +1,21 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.5",
+    "mongoose": "^5.0.10",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}

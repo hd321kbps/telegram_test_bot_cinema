@@ -1,0 +1,6 @@
+https://core.telegram.org/bots/api
+https://github.com/yagop/node-telegram-bot-api
+https://nodejs.org/en/
+https://core.telegram.org
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://kassa.yandex.ru/blog/telegram
